@@ -1,0 +1,21 @@
+header{
+	background: #7210f1ce;
+
+}
+
+h1{
+  color: rgb(244, 200, 250);
+  text-transform: uppercase;
+}
+h2{
+	color: rgb(223, 116, 182);
+}
+a {
+  background-color:hotpink;
+  text-align: center;
+  
+  }
+
+aside {
+  display : none;
+}
